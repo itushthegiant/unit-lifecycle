@@ -2,7 +2,6 @@ import Image from "next/image";
 import styles from "../../styles/Navbar.module.css";
 import logo from "../../public/assets/logo.png";
 import "@fortawesome/fontawesome-svg-core/styles.css";
-
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
   faHouseChimney,
